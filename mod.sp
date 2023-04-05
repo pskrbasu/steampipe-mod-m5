@@ -1,4 +1,4 @@
-mod "local" {
+mod "m5" {
   title = "steampipe-mod-m5"
   require {
     mod "github.com/turbot/steampipe-mod-aws-insights"  {
